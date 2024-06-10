@@ -10,3 +10,6 @@ NearColorDemo.py
 # 需要修改的位置文件
 
 ArmTake.py 需要修改time.sleep
+
+
+靠近色块
